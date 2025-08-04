@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.vietmap.trackingsdk</groupId>
-    <artifactId>vietmap-tracking-sdk</artifactId>
+    <artifactId>vietmap-tracking-sdk-android</artifactId>
     <version>1.0.0</version>
-    <name>vietmap-tracking-sdk</name>
+    <name>vietmap-tracking-sdk-android</name>
     <packaging>aar</packaging>
     <build>
         <plugins>
