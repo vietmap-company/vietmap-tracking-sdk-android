@@ -32,3 +32,10 @@ i.e:
 
 ### Go to https://jitpack.io/#vietmap-company/vietmap-tracking-sdk
 and make sure the get it button of latest version is full-fill green status. If it getting white status, click it.
+
+### Import for project
+```
+implementation 'com.github.vietmap-company:vietmap-tracking-sdk-android:1.0.0'
+implementation 'com.squareup.okhttp3:okhttp:4.12.0'
+implementation 'com.squareup.okhttp3:logging-interceptor:4.12.0'
+```
