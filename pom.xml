@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.vietmap.trackingsdk</groupId>
     <artifactId>vietmap-tracking-sdk-android</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <name>vietmap-tracking-sdk-android</name>
     <packaging>aar</packaging>
     <build>
